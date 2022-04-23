@@ -6,6 +6,12 @@ __pycache__/
 # C extensions
 *.so
 
+<<<<<<< Updated upstream
+=======
+# API key added
+api_keys.py
+
+>>>>>>> Stashed changes
 # Distribution / packaging
 .Python
 build/
